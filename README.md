@@ -7,9 +7,9 @@ Created by : jocker125rus
 Dark-IT & telegram: @gbmarket
 ##############################################
 
-#git clone https://github.com/jocker125rus/ddoswifo2020 
-cd ddoswifi2020 
-python2 ./ddoswifi2020
+#git clone https://github.com/jocker125rus/wifi2020 
+cd wifi2020 
+python2 ./wifi2020
 
 #Usage Sebelum menggunakan Tool ini sebaiknya cari dulu alamat IP dari Korban dan scan dimana port yang terbuka
 
