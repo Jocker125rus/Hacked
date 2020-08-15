@@ -7,7 +7,7 @@ Created by : jocker125rus
 Dark-IT & PLANETWORK TeaM
 ##############################################
 
-#install git clone https://github.com/jocker125rus/hacked cd hacked python2 ./pntddos.py
+#install git clone https://github.com/jocker125rus/hacked cd Hacked python2 ./pntddos.py
 
 #Usage Sebelum menggunakan Tool ini sebaiknya cari dulu alamat IP dari Korban dan scan dimana port yang terbuka
 
