@@ -1,7 +1,7 @@
-# ddoswifi2020
+# wifi2020
 ##############################################
 
-hacked(ddos wifi) 
+hacked ddos(wifi2020) 
 Created by : jocker125rus
 ----------
 Dark-IT & telegram: @gbmarket
@@ -11,25 +11,12 @@ Dark-IT & telegram: @gbmarket
 cd wifi2020 
 python2 ./wifi2020
 
-#Usage Sebelum menggunakan Tool ini sebaiknya cari dulu alamat IP dari Korban dan scan dimana port yang terbuka
 
-lalu ketikkan: python2 ./pntddos.py ip port packet
-
-contoh: python2 ./pntddos.py 192.168.xx.xx 80 3000
-
-#Note Tools ini hanya sebagai pembelajaran untuk serangan DOS & DDOS ingat ya, ddos hanyalah sebagian kecil dan sangat kecil dari dunia hacking jadi jangan bangga kalo cuma bisa ddos doang
-
-INGAT!! JANGAN MELAKUKAN SERANGAN DOS/DDOS TANPA MENGGUNAKAN JARINGAN WIFI!!!!
-
-#Kunjungi Forum : https://forum.gorontalodarkit.com IRC : irc.planetwork.id
-
-#Greetz Dark-IT & plaNETWORK TeaM
 
 ##################
-Smsbomber
 Установка:
 
-git clone https://github.com/jocker125rus/smsbomber
+git clone https://github.com/jocker125rus/wifi2020
 
-
-cd smsbomber
+Пуск
+cd wifi2020
