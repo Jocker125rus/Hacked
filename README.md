@@ -1,10 +1,10 @@
 # Hacked
 ##############################################
 
-PLANETWORK-DDOS
+hacked(ddos wifi) 
 Created by : jocker125rus
 ----------
-Dark-IT & PLANETWORK TeaM
+Dark-IT & telegram: @gbmarket
 ##############################################
 
 #git clone https://github.com/jocker125rus/hacked 
@@ -24,3 +24,12 @@ INGAT!! JANGAN MELAKUKAN SERANGAN DOS/DDOS TANPA MENGGUNAKAN JARINGAN WIFI!!!!
 #Kunjungi Forum : https://forum.gorontalodarkit.com IRC : irc.planetwork.id
 
 #Greetz Dark-IT & plaNETWORK TeaM
+
+##################
+Smsbomber
+Установка:
+
+git clone https://github.com/jocker125rus/smsbomber
+
+
+cd smsbomber
