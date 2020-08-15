@@ -1,4 +1,4 @@
-# Hacked
+# ddoswifi2020
 ##############################################
 
 hacked(ddos wifi) 
@@ -7,9 +7,9 @@ Created by : jocker125rus
 Dark-IT & telegram: @gbmarket
 ##############################################
 
-#git clone https://github.com/jocker125rus/hacked 
-cd Hacked 
-python2 ./pntddos.py 
+#git clone https://github.com/jocker125rus/ddoswifo2020 
+cd ddoswifi2020 
+python2 ./ddoswifi2020
 
 #Usage Sebelum menggunakan Tool ini sebaiknya cari dulu alamat IP dari Korban dan scan dimana port yang terbuka
 
