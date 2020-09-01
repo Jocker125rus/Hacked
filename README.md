@@ -4,7 +4,7 @@
 hacked ddos(wifi2020) 
 Created by : jocker125rus
 ----------
-Dark-IT & telegram: @gbmarket
+Dark-IT & telegram: @dark2webcom
 ##############################################
 
 #git clone https://github.com/jocker125rus/wifi2020 
